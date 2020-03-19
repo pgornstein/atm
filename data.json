@@ -1,0 +1,58 @@
+{
+  "513287": {
+    "first name": [
+      "john"
+    ],
+    "last name": [
+      "doe"
+    ],
+    "pin": [
+      5378
+    ],
+    "balance": [
+      756004.46
+    ]
+  },
+  "795629": {
+    "first name": [
+      "jane"
+    ],
+    "last name": [
+      "doe"
+    ],
+    "pin": [
+      5287
+    ],
+    "balance": [
+      18.0
+    ]
+  },
+  "964549": {
+    "first name": [
+      "john"
+    ],
+    "last name": [
+      "lennon"
+    ],
+    "pin": [
+      1357
+    ],
+    "balance": [
+      2.0
+    ]
+  },
+  "873382": {
+    "first name": [
+      "ringo"
+    ],
+    "last name": [
+      "starr"
+    ],
+    "pin": [
+      8752
+    ],
+    "balance": [
+      1008.0
+    ]
+  }
+}
